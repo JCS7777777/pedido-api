@@ -1,0 +1,25 @@
+{
+  "name": "pedido-api",
+  "version": "1.0.0",
+  "description": "API simples para calcular pedidos com desconto usando Node.js e Express",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "test": "jest"
+  },
+  "keywords": [
+    "node",
+    "express",
+    "api",
+    "pedido",
+    "desconto"
+  ],
+  "author": "Josimar",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.18.2"
+  },
+  "devDependencies": {
+    "jest": "^29.7.0"
+  }
+}
