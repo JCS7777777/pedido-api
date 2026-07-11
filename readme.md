@@ -45,7 +45,7 @@ npm test
 Este projeto utiliza GitHub Actions para rodar os testes automaticamente a cada push.
 Status do build:
 
-https://github.com/JCS7777777/pedido-api/actions/workflows/node.js.yml/badge.svg
+![Node.js CI](https://github.com/JCS7777777/pedido-api/actions/workflows/node.js.yml/badge.svg)
 
 📖 Parte Teórica
 Contexto do Problema
